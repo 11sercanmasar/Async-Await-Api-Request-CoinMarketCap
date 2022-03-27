@@ -2,7 +2,7 @@
 
 
 The information in this project is provided by the API. With the asynchronous structure, the request is thrown and the data is shown in the UI. 
-Visually, a design template and dark theme were used.
+Visually, a design template and dark theme were showed.
 
 ## Getting started
 
